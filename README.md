@@ -8,3 +8,6 @@
 2) 이미지 분류를 활용한 코로나 보조진단 프로그램
    CT사진 데이터와 Xray사진 데이터를 활용한 코로나 보조진단 프로그램 
 
+<img width="1271" alt="화면 캡처 2020-12-16 160459" src="https://user-images.githubusercontent.com/48192081/102320254-60c8ae00-3fbf-11eb-8074-d7e50f968467.png">
+<img width="439" alt="화면 캡처 2020-12-16 165332" src="https://user-images.githubusercontent.com/48192081/102320259-61f9db00-3fbf-11eb-9467-df1e28768f65.png">
+<img width="436" alt="화면 캡처 2020-12-16 165317" src="https://user-images.githubusercontent.com/48192081/102320261-62927180-3fbf-11eb-867a-37477841bd2d.png">
