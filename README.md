@@ -5,8 +5,8 @@
 1) 데이콘 코로나 데이터 시각화 AI 경진대회
    서울의 확진자와 그에 따른 유동인구의 변화 시각화
    
-[alt-text-1]<img width="248" alt="화면 캡처 2020-12-16 165808" src="https://user-images.githubusercontent.com/48192081/102320649-f06e5c80-3fbf-11eb-9c9f-1fe30a59cd39.png">
-[alt-text-2]<img width="280" alt="화면 캡처 2020-12-16 165754" src="https://user-images.githubusercontent.com/48192081/102320656-f2382000-3fbf-11eb-8cb0-e028c36f0c7d.png">
+!<img width="248" alt="화면 캡처 2020-12-16 165808" src="https://user-images.githubusercontent.com/48192081/102320649-f06e5c80-3fbf-11eb-9c9f-1fe30a59cd39.png">
+!<img width="280" alt="화면 캡처 2020-12-16 165754" src="https://user-images.githubusercontent.com/48192081/102320656-f2382000-3fbf-11eb-8cb0-e028c36f0c7d.png">
 
 2) 이미지 분류를 활용한 코로나 보조진단 프로그램
    CT사진 데이터와 Xray사진 데이터를 활용한 코로나 보조진단 프로그램 
